@@ -1,0 +1,16 @@
+{
+  "name": "porter",
+  "version": "0.0.1",
+  "description": "",
+  "main": "porter.js",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "repository": "http://github.com/socialchorus/node-porter",
+  "author": "SocialChorus, developers@socialchorus.com",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "1.7.4",
+    "chai": "1.4.0"
+  }
+}
